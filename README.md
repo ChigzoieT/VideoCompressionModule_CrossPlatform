@@ -1,1 +1,3 @@
 # VideoCompressionModule_CrossPlatform
+
+A cross-platform C++ implementation leveraging the advanced capabilities of FFmpeg to transcode videos into the latest H.265 (HEVC) codec with AAC audio, ensuring superior compression efficiency while maintaining high visual and audio quality. As one of the most efficient modern compression standards, H.265 significantly reduces file size compared to its predecessors while preserving detail. This implementation is designed for seamless compilation and execution across all major operating systems, offering broad compatibility and optimized performance for diverse multimedia applications
